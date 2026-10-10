@@ -2,7 +2,8 @@
 
 ## [Unreleased]
 
-- 语境新增 `tutorial/search-loop.md`：搜索最小循环新手教程（评测 → 改一条策略 → 重跑评测），含 2026-10-10 本机实测的一正一反两个改写结果。
+- 注册教程子模块：`docs/tutorial` → `quanttide/quanttide-tutorial-of-search-engineering`；首篇《从零写一个搜索程序：让搜索变准的最小循环》在 `intro/loop.md`，写作规范见其 CONTRIBUTING（每一步代码亲手跑通）。语境草稿 `context/tutorial/search-loop` 已出箱。
+
 
 - 新增 `index.md`：领域入口页，按日志思路写定位（前台搜索框 + 后台搜索云、公开知识库、可改进搜索算法的元系统）；边界事实源仍在 README。
 - 注册实验室子模块：`examples/quanttide-search-lab` → `quanttide/quanttide-search-lab`（云端建仓 + 登记，同步量潮实验室元仓库）。

@@ -4,3 +4,6 @@
 [submodule "examples/quanttide-search-lab"]
 	path = examples/quanttide-search-lab
 	url = https://github.com/quanttide/quanttide-search-lab.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-search-engineering.git

@@ -15,6 +15,7 @@
 ## 子模块
 
 - `data/context`：语境
+- `docs/tutorial`：搜索工程教程
 - `examples/quanttide-search-lab`：搜索工程实验室
 
 ## 许可
