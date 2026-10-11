@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- 注册洞察子模块：`data/insight` → `quanttide/quanttide-insight-of-search-engineering`（空仓起步，定位句「从实践中提炼的认知」）。
 - 注册路线图子模块：`data/roadmap` → `quanttide/quanttide-roadmap-of-search-engineering`（README + CC BY 4.0）。分工：意图管远景，路线图管近景；近景规划入 `data/roadmap/intro/index.md`（当前优先：先能搜到东西）。
 - 意图仓两篇合并为一篇 `intro/index.md`：按价值循环成文（开放知识库 → 搜索行为反馈 → 判据「减少 AI 走弯路」→ 元系统 → 按次计费回流），原 `index.md` 与 `business-model.md` 移除。
 

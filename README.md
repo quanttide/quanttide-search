@@ -15,6 +15,7 @@
 ## 子模块
 
 - `data/context`：语境
+- `data/insight`：搜索工程洞察
 - `data/intention`：搜索工程意图
 - `data/roadmap`：搜索工程路线图
 - `docs/tutorial`：搜索工程教程
