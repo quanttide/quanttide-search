@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- 注册意图子模块：`data/intention` → `quanttide/quanttide-intention-of-search-engineering`。领域 `index.md` 的四节移入——问题、与常见实现的差别、已知限制入 `index.md`（缘起、目标与约束），商业模式入 `business-model.md`；本页只留系统结构与去处。
+
 - 注册教程子模块：`docs/tutorial` → `quanttide/quanttide-tutorial-of-search-engineering`；首篇《从零写一个搜索程序：让搜索变准的最小循环》在 `intro/loop.md`，写作规范见其 CONTRIBUTING（每一步代码亲手跑通）。语境草稿 `context/tutorial/search-loop` 已出箱。
 
 
