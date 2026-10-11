@@ -2,6 +2,8 @@
 
 ## [Unreleased]
 
+- 意图仓两篇合并为一篇 `intro/index.md`：按价值循环成文（开放知识库 → 搜索行为反馈 → 判据「减少 AI 走弯路」→ 元系统 → 按次计费回流），原 `index.md` 与 `business-model.md` 移除。
+
 - 新增 `CONTRIBUTING.md`：各仓功能与边界一览（意图/语境/教程/实验室各放什么、不放什么）与分层提交顺序。
 
 - 注册意图子模块：`data/intention` → `quanttide/quanttide-intention-of-search-engineering`。领域 `index.md` 的四节移入——问题、与常见实现的差别、已知限制入 `index.md`（缘起、目标与约束），商业模式入 `business-model.md`；本页只留系统结构与去处。

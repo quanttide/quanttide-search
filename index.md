@@ -16,7 +16,7 @@
 ## 去处
 
 - 边界与子模块清单：[README](README.md)
-- 意图：`data/intention`（[缘起、目标与约束](data/intention/index.md)；[商业模式](data/intention/business-model.md)）
+- 意图：`data/intention`（[intro/index.md](data/intention/intro/index.md)）
 - 语境：`data/context`（含 [OneBase 目录指南](data/context/library/onebase.md)）
 - 教程：`docs/tutorial`（[从零写一个搜索程序](docs/tutorial/intro/loop.md)）
 - 实验室：`examples/quanttide-search-lab`
