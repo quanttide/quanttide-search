@@ -2,6 +2,7 @@
 
 ## [Unreleased]
 
+- 注册路线图子模块：`data/roadmap` → `quanttide/quanttide-roadmap-of-search-engineering`（README + CC BY 4.0）；意图 `intro/index.md` 增加「当前优先」——现在最重要的是能搜到东西，还没有一个能用的搜索算法。
 - 意图仓两篇合并为一篇 `intro/index.md`：按价值循环成文（开放知识库 → 搜索行为反馈 → 判据「减少 AI 走弯路」→ 元系统 → 按次计费回流），原 `index.md` 与 `business-model.md` 移除。
 
 - 新增 `CONTRIBUTING.md`：各仓功能与边界一览（意图/语境/教程/实验室各放什么、不放什么）与分层提交顺序。

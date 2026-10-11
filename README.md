@@ -16,6 +16,7 @@
 
 - `data/context`：语境
 - `data/intention`：搜索工程意图
+- `data/roadmap`：搜索工程路线图
 - `docs/tutorial`：搜索工程教程
 - `examples/quanttide-search-lab`：搜索工程实验室
 

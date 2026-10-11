@@ -10,3 +10,6 @@
 [submodule "data/intention"]
 	path = data/intention
 	url = https://github.com/quanttide/quanttide-intention-of-search-engineering.git
+[submodule "data/roadmap"]
+	path = data/roadmap
+	url = https://github.com/quanttide/quanttide-roadmap-of-search-engineering.git
